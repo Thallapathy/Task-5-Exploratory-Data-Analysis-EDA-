@@ -18,6 +18,7 @@ To extract early insights using statistical methods and visualizations.
 - `titanic.csv` - Dataset file
 - `eda_titanic.ipynb` - Jupyter notebook with code
 - `Titanic_EDA_Initial_Findings.pdf` - PDF summary of observations
+- `README.md`: Project summary and documentation
 
 ## 🔍 Summary of Key Insights
 - Inspected data structure using `.info()` and `.describe()`.
