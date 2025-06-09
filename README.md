@@ -4,7 +4,7 @@
 ## 📄 Dataset Used
 - **Name**: Titanic Dataset  
 - **Source**: [https://www.kaggle.com]
-  
+
 This repository contains a basic Exploratory Data Analysis (EDA) on the Titanic dataset using Python.
 
 ## ✅ Objective
